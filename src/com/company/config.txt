@@ -1,0 +1,8 @@
+StoreBodySize=20
+StoreEngineSize=20
+StoreAccessoriesSize=30
+StoreCarSize=100
+AccessoriesSupply=5
+Workers=2
+Dealer=4
+LogSale=1
